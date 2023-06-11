@@ -19,7 +19,7 @@
 
 ## 📖 Table of Contents
 - [Play The Game](#-play-the-game)
-- [About The Project & Inspo](#-about-the-project--inspo)
+- [About The Project](#-about-the-project)
   - [Features](#-features)
   - [Tech Used](#-tech-used)
   - [What I Learned](#-what-i-learned)
@@ -31,7 +31,7 @@ You can play it yourself! Check it out [**here!**](https://vmoschella.itch.io/ku
 
 <br/>
 
-## 📄 About The Project & Inspo
+## 📄 About The Project
 Space is cool so I decided to make a game themed around it. This was actually a high school end of year project for my computer science class. A lot of my peers played the game and I gave a prize _gift card_,to the person first on the leaderboard!
 
 <br/>
@@ -41,14 +41,14 @@ Space is cool so I decided to make a game themed around it. This was actually a 
 - **Player-controller:** Movement mechanics takes into account drift and zero air resistance.
 - **Unique ships & abilities:** Three custom made unique ships each having their own ability to destroy or protect you from enemy asteroids.
 - **Public Leaderboard:** A public leaderboard that allows players to publish their score and compete with other players.
-- **Enemy algorithm:** Enemy algorithm follow players, with each enemy having different sizes and speeds.
-- **Scoring system:** Points are earned from destroying enemy asteroids, with each enemy worth different points.
+- **Enemy algorithm:** Enemies use an algorithm to follow players, with each enemy having different speeds and being different sizes.
+- **Scoring system:** Points are earned from destroying enemy asteroids, with each enemy being worth a different amount of points.
 - **Nice visuals:** Appealing 2D graphics and engaging special effects.
 
 <br/>
 
 ### 💻 Tech Used
-Here's the tech the game uses:
+Here's the tech I used to make the game:
 
 - [**Unity**](https://unity.com/) game engine used for development, providing a powerful and flexible framework for creating 2D games.
 - [**C#**](https://dotnet.microsoft.com/en-us/languages/csharp) programming language used for scripting game logic and behaviors.
